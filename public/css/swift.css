@@ -1,0 +1,32 @@
+a#swiftlogo img {
+    width: 49%;
+    height: auto;
+}
+
+ul li {
+    list-style-type: none;
+}
+.docbx {
+    float: left;
+    width: 100%;
+    padding: 20px 10px;
+    margin: 20px 0px 0px;
+    background-color: white;
+    box-shadow: 0px 0px 20px 0px #e6e6e6;
+}
+
+#profile {
+    min-width: 218px;
+    text-align: right;
+}
+
+#profile ul {
+    display: block;
+    width: 100%;
+    padding: 10px;
+}
+
+#profile ul li {
+    display: block;
+    width: 100%;
+}
